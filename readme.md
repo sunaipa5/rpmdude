@@ -32,7 +32,7 @@ rpmdude_build
 
 ```
 
-Build
+## Build
 
 ```bash
 rpmdude build
