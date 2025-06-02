@@ -15,7 +15,11 @@ go build
 ## Usage
 
 ```bash
+//Init project
 rpmdude init my-project
+
+//Build RPM
+rpmdude build
 ```
 
 ## Tree
@@ -30,10 +34,4 @@ rpmdude_build
 └── SPECS
     └── my-project.spec
 
-```
-
-Build
-
-```bash
-rpmdude build
 ```
